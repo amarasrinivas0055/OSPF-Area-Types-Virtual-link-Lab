@@ -31,7 +31,8 @@ This lab simulates real-world scenarios where different area types help reduce o
 
 > ## 🗺️ Lab Topology
 
-![OSPF Topology](images/topology images/OSPF-AREA-VIRTUAL LINK.PNG)
+![OSPF Topology](topology%20images/OSPF-AREA-VIRTUAL%20LINK.PNG)
+
 
 
 
