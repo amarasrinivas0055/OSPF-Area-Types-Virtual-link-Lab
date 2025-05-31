@@ -29,9 +29,8 @@ This lab simulates real-world scenarios where different area types help reduce o
 
 ## 🗺️ Lab Topology
 
-> ![OSPF Lab Topology](images/topology.png)
+> ![OSPF Lab Topology](topology images/OSPF-AREA-VIRTUAL LINK.PNG)
 
-📌 *(Make sure to rename your uploaded topology image to `topology.png` and place it inside a folder named `images/`)*
 
 ---
 
